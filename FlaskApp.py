@@ -2,4 +2,6 @@ print('Flask is use to develope APIs')
 print('webapi1')
 print('webapi2')
 print('webapi3')
-
+print('route1')
+print('route2')
+print('route3')
